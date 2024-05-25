@@ -42,9 +42,11 @@ To get a local copy up and running, follow these simple steps:
 ## Usage
 
 **Note:** You may need to change directories for models and datasets depending on your paths. The datasets and trained models are uploaded on Google Drive as Github doesn't allow large file size uplaods. You can always ask me for permissions or if the link is down.
-** Link for Datasets: **
+
+**Link for Datasets:**
 https://drive.google.com/drive/folders/1lmRn6c0WhI8zTfAyXicG1l4L6lDXrp-y?usp=drive_link
-** Link for Trained Models: **
+
+**Link for Trained Models:**
 https://drive.google.com/drive/folders/1ReQAJa_ecRTnZ5_fvxu-hCTKUymJUJ98?usp=drive_link
 https://drive.google.com/drive/folders/1WmFkM6dkPreHUXt2BWukf-S9r_s8PRU5?usp=drive_link
 
