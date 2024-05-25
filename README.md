@@ -41,7 +41,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## Usage
 
-**Note:** You may need to change directories for models and datasets depending on your paths. The datasets and trained models are uploaded on Google Drive as Github doesn't allow large file size uplaods. You can always ask me for permissions or if the link is down.
+**Note:** You may need to change directories for models and datasets depending on your paths. The datasets and trained models are uploaded on Google Drive as Github doesn't allow large file size uploads. You can always ask me for permissions or if the link is down.
 
 **Link for Datasets:**
 https://drive.google.com/drive/folders/1lmRn6c0WhI8zTfAyXicG1l4L6lDXrp-y?usp=drive_link
